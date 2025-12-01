@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Artem Saveliev
+# Hi there 👋 I'm Artem Savelev
 
 **ML Engineer | Mathematics & Computer Science Student**  
 *Bauman Moscow State Technical University (BMSTU)*
