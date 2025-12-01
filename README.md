@@ -47,6 +47,7 @@ Focused on building intelligent systems and end-to-end ML pipelines. Constantly 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/>&nbsp;
 </p>
+
 ---
 
 ## 📬 Connect With Me
