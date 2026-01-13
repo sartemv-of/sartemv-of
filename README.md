@@ -73,3 +73,84 @@ Focused on building intelligent systems and end-to-end ML pipelines. Constantly 
 </p>
 
 > *Open to interesting projects and collaborations in the field of Machine Learning and Data Science.*
+
+# 👋 Hi, I'm Artem Savelev
+
+**Aspiring ML Engineer | Data Scientist | Mathematics & CS Student @ BMSTU**
+
+Focused on building intelligent systems and end-to-end ML pipelines. Constantly learning and applying new techniques to solve real-world problems. Currently diving deep into Classical ML model optimization and CV.
+
+---
+
+## 🚀 Featured Projects
+
+### [Titanic Survival Prediction](https://github.com/sartemv-of/Titanik_Survival)
+_A comprehensive end-to-end ML pipeline for binary classification_
+
+| **Aspect** | **Details & Achievements** |
+| :--- | :--- |
+| **Objective** | Predict passenger survival using the historic Titanic dataset. |
+| **Key Workflow** | Full-cycle analysis: EDA → Missing value imputation → Feature encoding → Model training & comparison → Evaluation. |
+| **Modeling** | Compared **5 algorithms** (Logistic Regression, SVM, KNN, Naive Bayes, Decision Tree). Achieved **best accuracy (~76%) with GaussianNB**. |
+| **Key Insight** | Conducted detailed EDA, revealing that **gender and passenger class were the strongest predictors of survival**. |
+| **Stack** | `Python` `Pandas` `Scikit-learn` `Matplotlib` `Seaborn` `Jupyter` |
+
+### [Telegram AI Assistant Bot](https://github.com/sartemv-of/Telegram_AI_Bot)
+_A production-ready chatbot with persistent context and local storage_
+
+| **Aspect** | **Details & Achievements** |
+| :--- | :--- |
+| **Objective** | Build an intelligent Telegram bot capable of maintaining context-aware conversations. |
+| **Architecture** | Clean **modular design**: separated bot logic, database layer, and configuration. Integrated **external AI API** (OpenRouter) for LLM responses. |
+| **Data Layer** | Implemented **SQLite database** to store and retrieve per-user conversation history, enabling personalized interactions. |
+| **Key Feature** | The bot retains the **last 20 messages** of context for each user, making dialogues coherent and continuous. |
+| **Stack** | `Python` `aiogram` `SQLite` `REST APIs` `Asyncio` |
+
+---
+
+## 🛠️ Technical Skills & Tools
+
+### **Programming & Data Manipulation**
+*   **Python:** Core language for data science and backend development.
+*   **Pandas / NumPy:** Proficient in data cleaning, transformation, and analysis (extensively used in Titanic EDA).
+*   **SQL (SQLite):** Experience with database design, querying, and integration into applications (used in Telegram Bot for chat history).
+
+### **Machine Learning & Data Science**
+*   **Classical ML:** Practical experience with **Logistic Regression, SVM, Decision Trees, KNN, Naive Bayes** for classification tasks. Focus on proper model evaluation and selection.
+*   **ML Pipelines:** Hands-on experience building complete workflows with **Scikit-learn**, including data preprocessing, training, and validation.
+*   **Model Evaluation:** Understanding of key metrics (Accuracy, Precision, Recall) and tools like **confusion matrices** (implemented in the Titanic project).
+*   **Exploratory Data Analysis (EDA):** Skilled in using **Matplotlib & Seaborn** to uncover data patterns and relationships, forming the basis for feature engineering and hypothesis testing.
+
+### **Development & DevOps**
+*   **Git / GitHub:** Version control for all projects. This profile is an example of repository organization.
+*   **Software Design:** Understanding of **modular architecture** and **separation of concerns**, as demonstrated in the Telegram Bot project.
+*   **API Integration:** Experience working with third-party REST APIs (OpenRouter) and building asynchronous applications.
+
+### **Languages**
+*   **Russian:** Native
+*   **English:** Professional working proficiency (B2+)
+
+---
+
+## 📈 GitHub Activity & Stats
+
+[![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=sartemv-of&show_icons=true&count_private=true&hide_title=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sartemv-of&layout=compact&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📚 Currently Exploring & Next Steps
+*   **Deepening ML Knowledge:** Studying ensemble methods (Random Forest, Gradient Boosting) and neural network fundamentals.
+*   **MLOps Tools:** Exploring **MLflow** for experiment tracking and **Docker** for containerization.
+*   **Next Project Goal:** Advancing skills in Computer Vision by implementing a full-cycle image recognition or object detection project using **PyTorch** and modern **CV libraries**, with an emphasis on model optimization and deployment.
+
+---
+
+## 📫 Let's Connect
+I'm always open to discussing interesting projects, collaborations, or opportunities in Data Science and Machine Learning.
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a_v_savelev@mail.ru)
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Saveliev_Artyom)
+
+---
+_This profile was crafted with attention to detail and a focus on demonstrating tangible results._
